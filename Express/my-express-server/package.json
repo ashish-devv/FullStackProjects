@@ -1,0 +1,15 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "testing express",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
